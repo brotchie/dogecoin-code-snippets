@@ -4,6 +4,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "node-dogecoin": "~0.3.5",
-    "async": "~0.2.10"
+    "async": "~0.2.10",
+    "lodash": "~2.4.1"
   }
 }
